@@ -1,4 +1,4 @@
-package filter;
+package simpleprocessor;
 
 import org.apache.kafka.streams.processor.Processor;
 import org.apache.kafka.streams.processor.ProcessorContext;
